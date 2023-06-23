@@ -55,3 +55,8 @@ Matplotlib
 6. Pega el codigo del archivo "ProyectoMec.py"
 
 7. Dale en el boton de Play
+
+##Ejemplos
+
+![Ejemplos de problemas resueltos](Ejemplos.jpg)
+
