@@ -52,6 +52,6 @@ Matplotlib
 
 5. Crea un nuevo cuaderno
 
-6. Pega el codigo del archivo "ProyectoMec.txt"
+6. Pega el codigo del archivo "ProyectoMec.py"
 
 7. Dale en el boton de Play
