@@ -56,6 +56,6 @@ Matplotlib
 
 7. Dale en el boton de Play
 
-## Ejemplos
+## Ejemplos de problemas
 
 ![Ejemplos de problemas resueltos](Ejemplos.jpg)
